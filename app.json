@@ -1,0 +1,7 @@
+{
+  "name": "CORS Anywhere",
+  "description": "A NodeJS proxy which adds CORS headers to the proxied request",
+  "repository": "https://github.com/msfeldstein/cors-anywhere",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "cors"]
+}
